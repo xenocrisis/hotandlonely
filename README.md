@@ -1,9 +1,17 @@
-# We all gonna die BUT Not Today... maybe tomorrow
-https://user-images.githubusercontent.com/63518404/217434693-d3db98fe-0198-4287-8dd7-db5061d368aa.mp4
-
+# We all gonna die
 <h3>About me</h3>
-<ul>
-  <li>I love hacking 😈💡</li>
-  <li>Alias Xenon, Xenonxss, XSS, Drunkarp, Alynx, EvilLynx</li>
-  <li>18yo Energy (pure sex) 😔❤️</li>
-</ul>
+<p>
+I love hacking and weird stuff, I program to do bullshit that occurs to me, one day I hope to make a living from it huh. Sometimes, I learn unuseful things that makes fun to me. 🤓
+</p>
+<div>
+<h4>Stuff I use normally</h4>
+  
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />       
+</div>
+<div>
+  <h2>Social</h2>
+  Discord xenon#1272
+</div>
