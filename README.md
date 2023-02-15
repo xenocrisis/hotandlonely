@@ -1,7 +1,7 @@
 # We all gonna die
 <h3>About me</h3>
 <p>
-I love hacking and weird stuff, I program to do bullshit that occurs to me, one day I hope to make a living from it huh. Sometimes, I learn unuseful things that makes fun to me. 🤓
+I love hacking and weird stuff, I program to do bullshit that occurs to me, one day I hope to make cash writing some code huh. Sometimes, I learn unuseful things that makes fun to me. 🤓
 </p>
 <div>
 <h4>Stuff I use normally</h4>
