@@ -15,5 +15,6 @@ I love hacking and weird stuff, I program to do bullshit that occurs to me, one 
 </div>
 <div>
   <h2>Social</h2>
-  Discord xenon#1272
+  Discord xenon#1272 (legacy)
+  Discord xenon1272 (actual)
 </div>
